@@ -1,2 +1,3 @@
 # ordinary-ui
-Ordinary reusable UI components.
+Ordinary javascript, css, html reusable UI components. 
+Every compenent is self container and has no dependency.
